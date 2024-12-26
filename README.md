@@ -70,20 +70,6 @@ Ensure you have the following installed on your system:
 - **Scikit-learn**: For clustering and statistical analysis.
 - **Statsmodels**: For time series analysis.
 
----
-
-## Example Screenshots
-
-### Time Series Plot
-Visualize stock prices over time.
-
-### Distribution Analysis
-Analyze the distribution of log returns for a stock.
-
-### Correlation Matrix Heatmap
-Understand interdependencies between stocks.
-
----
 
 ## Future Enhancements
 
