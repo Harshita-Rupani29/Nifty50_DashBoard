@@ -37,8 +37,8 @@ Ensure you have the following installed on your system:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nifty50-stock-analysis.git
-   cd nifty50-stock-analysis
+    https://github.com/Harshita-Rupani29/Nifty50_DashBoard.git
+    cd nifty50-stock-analysis
    ```
 2. Install required Python packages:
    ```bash
